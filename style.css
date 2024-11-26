@@ -1,0 +1,39 @@
+body{
+
+    background-color: :aqua
+
+
+
+    
+    <!DOCTYPE html>
+    <html lang="PT-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        link ret="stylesheet"href="style.css">
+        <title>en busca da cidade perdid </title><link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;
+        1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    
+    <body>
+       <main>
+    
+        <div>
+            <p>voce comença sua jornada no rio de janeiro
+                 um dia desses dentro de un livro da 
+                biblioteca da escola,eu descobri uma carta antiga sobre uma cidade perdida,
+                escondidas por riquesas y velezas naturaiznessa carta a autora deixa uma pista sobre esa 
+                cidade e eu decisdi seguirlas
+    
+    <button>class="btn-proximo"data-proximo</button>rio de janeir</button>
+    <button>class="btn-proximo"data-proximo</button>pernanbuco</button>
+    </p>
+        </div>
+       </main> 
+    
+    
+    
+    </body>
+    </html>
+}
